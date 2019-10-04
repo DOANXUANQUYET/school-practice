@@ -1,0 +1,6 @@
+A001,T-Shirt,4500
+A002,Y-Shirt,5200
+B001,Sneaker,3000
+B002,Sandal,1500
+C001,Wallet,7800
+C002,Kerchief,790

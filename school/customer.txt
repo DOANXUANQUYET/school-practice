@@ -1,0 +1,5 @@
+CU01,Aoyama Ichiro
+CU02,Kayama Midori
+CU03,Saki Toshio
+CU04,Takeda Keisuke
+CU05,Nakayama Syo
